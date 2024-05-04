@@ -18,7 +18,7 @@ target_link_libraries(${CMAKE_PROJECT_NAME}
         ${ffmpeg_lib_dir}/libavcodec.a
         ${ffmpeg_lib_dir}/libavdevice.a
         ${ffmpeg_lib_dir}/libavfilter.a
-        ${ffmpeg_lib_dir}/libavformat
+        ${ffmpeg_lib_dir}/libavformat.am
         ${ffmpeg_lib_dir}/libavutil.a
         ${ffmpeg_lib_dir}/libpostproc.a
         ${ffmpeg_lib_dir}/libswresample.a
