@@ -1,0 +1,11 @@
+prefix=/Users/tys/AndroidStudioProjects/ffmpegbuild/app/sh/build_x264/android/armeabi-v7a
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: x264
+Description: H.264 (MPEG4 AVC) encoder library
+Version: 0.164.3095
+Libs: -L${exec_prefix}/lib -lx264 -lm -ldl
+Libs.private: 
+Cflags: -I${prefix}/include 

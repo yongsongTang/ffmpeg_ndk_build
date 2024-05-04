@@ -1,0 +1,4 @@
+/Users/tys/AndroidStudioProjects/ffmpegbuild/app/sh/build_x265/android/armeabi-v7a/lib/libx265.a
+/Users/tys/AndroidStudioProjects/ffmpegbuild/app/sh/build_x265/android/armeabi-v7a/include/x265.h
+/Users/tys/AndroidStudioProjects/ffmpegbuild/app/sh/build_x265/android/armeabi-v7a/include/x265_config.h
+/Users/tys/AndroidStudioProjects/ffmpegbuild/app/sh/build_x265/android/armeabi-v7a/lib/pkgconfig/x265.pc
