@@ -1,4 +1,0 @@
-/Users/tys/AndroidStudioProjects/ffmpegbuild/app/sh/build_x265/android/arm64-v8a/lib/libx265.a
-/Users/tys/AndroidStudioProjects/ffmpegbuild/app/sh/build_x265/android/arm64-v8a/include/x265.h
-/Users/tys/AndroidStudioProjects/ffmpegbuild/app/sh/build_x265/android/arm64-v8a/include/x265_config.h
-/Users/tys/AndroidStudioProjects/ffmpegbuild/app/sh/build_x265/android/arm64-v8a/lib/pkgconfig/x265.pc
