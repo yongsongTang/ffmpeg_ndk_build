@@ -14,8 +14,8 @@
 .cxx
 local.properties
 /app/sh/build_ffmpeg
-/app/src/main/cpp/ffmpeg
 /FFmpeg/
 /mpp/
 /x264/
 /x265_git/
+/.idea/
